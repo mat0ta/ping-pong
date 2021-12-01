@@ -1,8 +1,10 @@
-
 <h1 align="center">Ping Pong</h1>
 
 <h3 align="center">Perfiles de GitHub de los autores de este proyecto:</h3>
-[Ignacio](https://github.com/Nachopedrero), [Martín](https://github.com/mat0ta) y [Juan](https://github.com/jmedina28)
+
+1.[Ignacio](https://github.com/Nachopedrero)
+2.[Martín](https://github.com/mat0ta) 
+3.[Juan](https://github.com/jmedina28)
 
 El link del repositorio es este: [Repositorio](https://github.com/mat0ta/ping-pong)
 
